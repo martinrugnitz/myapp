@@ -1,0 +1,15 @@
+*.iml
+.gradle
+MyApplication/local.properties
+MyApplication/.idea/caches
+MyApplication/.idea/libraries
+MyApplication/.idea/modules.xml
+MyApplication/.idea/workspace.xml
+MyApplication/.idea/navEditor.xml
+MyApplication/.idea/assetWizardSettings.xml
+MyApplication/.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
