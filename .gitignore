@@ -13,3 +13,4 @@ MyApplication/.DS_Store
 .externalNativeBuild
 .cxx
 local.properties
+.idea/
